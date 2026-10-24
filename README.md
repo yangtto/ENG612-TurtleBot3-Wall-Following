@@ -100,9 +100,8 @@ The final Dual PID experiment completed 20 clockwise turns.
 
 ## Contributors
 
-- Group Member 1: [Name]
-- Group Member 2: [Name]
-
+- Group Member 1: Tshering Yangden
+- Group Member 2: Margaux Ragasa
 ## Acknowledgement
 
 AI-assisted coding and debugging suggestions were reviewed,
